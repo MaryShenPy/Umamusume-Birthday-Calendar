@@ -58,7 +58,7 @@
     "name_zh-cn": "洛林军歌",
     "name_zh-tw": null,
     "name_en": "Marche Lorraine",
-    "birth_year": null,
+    "birth_year": 2016,
     "birth_month": 2,
     "birth_day": 4
   },
@@ -76,7 +76,7 @@
     "name_zh-cn": "神威启示",
     "name_zh-tw": null,
     "name_en": "Epiphaneia",
-    "birth_year": null,
+    "birth_year": 2010,
     "birth_month": 2,
     "birth_day": 11
   },
@@ -121,7 +121,7 @@
     "name_zh-cn": "青春永驻",
     "name_zh-tw": null,
     "name_en": "Forever Young",
-    "birth_year": null,
+    "birth_year": 2021,
     "birth_month": 2,
     "birth_day": 24
   },
@@ -292,7 +292,7 @@
     "name_zh-cn": "标志名驹",
     "name_zh-tw": null,
     "name_en": "Logotype",
-    "birth_year": null,
+    "birth_year": 2010,
     "birth_month": 3,
     "birth_day": 10
   },
@@ -544,7 +544,7 @@
     "name_zh-cn": "比萨胜驹",
     "name_zh-tw": null,
     "name_en": "Victoire Pisa",
-    "birth_year": null,
+    "birth_year": 2007,
     "birth_month": 3,
     "birth_day": 31
   },
@@ -1093,7 +1093,7 @@
     "name_zh-cn": "玫瑰帝国",
     "name_zh-tw": null,
     "name_en": "Rose Kingdom",
-    "birth_year": null,
+    "birth_year": 2007,
     "birth_month": 5,
     "birth_day": 10
   },
@@ -1156,7 +1156,7 @@
     "name_zh-cn": "统治地位",
     "name_zh-tw": null,
     "name_en": "Rulership",
-    "birth_year": null,
+    "birth_year": 2007,
     "birth_month": 5,
     "birth_day": 15
   },
